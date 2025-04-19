@@ -2,7 +2,7 @@
   "name": "check-balance-lab",
   "version": "1.0.0",
   "description": "Checks balance of a Solana user",
-  "main": "index.ts",
+  "main": "check-balance``.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/mhussain-arch/check-balance-lab/issues"
   },
-  "homepage": "https://github.com/mhussain-arch/check-balance-lab#readme"
+  "homepage": "https://github.com/mhussain-arch/check-balance-lab#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "dotenv": "^16.5.0",
+    "esrun": "^3.2.26",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
 }
