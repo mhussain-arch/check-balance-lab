@@ -1,0 +1,23 @@
+{
+  "name": "check-balance-lab",
+  "version": "1.0.0",
+  "description": "Checks balance of a Solana user",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhussain-arch/check-balance-lab.git"
+  },
+  "keywords": [
+    "solana",
+    "blockchain"
+  ],
+  "author": "hussain",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/mhussain-arch/check-balance-lab/issues"
+  },
+  "homepage": "https://github.com/mhussain-arch/check-balance-lab#readme"
+}
