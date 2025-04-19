@@ -1,6 +1,6 @@
 # Solana Lab 2
 
-Following solana lab taught us how to read lampost from solana accounts and convert lampost to SOL.
+Following solana lab taught us how to read lamports from solana accounts and convert lampost to SOL.
 
 ### Challenges
 Below were the challenges for this lab:
